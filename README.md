@@ -32,9 +32,7 @@ Deepfake/
 ├── utils.py # Grad-CAM, PDF generation, frame processing
 ├── requirements.txt # Backend Python dependencies
 
-yaml
-Copy
-Edit
+
 
 ---
 
